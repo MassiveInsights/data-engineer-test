@@ -15,5 +15,5 @@ Ensure you have saved your work within `solutions.py` and follow the instruction
 2. Write the above message to a file name `hello.txt`. The file should be created in folder `output` living in the same directory as `questions.md`.
 3. Reverse the above message and add it to `hello.txt`. Do not overwrite the contents of `hello.txt`.
 4. Convert the file `json/orders.json` into a csv. The resulting file should be named `orders.csv` and live in folder `output`.
-5. Given a list of ISBNs, create a csv containing the ISBN, Title, Author, Publisher and Published Date of each ISBN. Use https://openlibrary.org/dev/docs/api/books to acquire this data. The list of ISBNs can be found in `books/isbns.txt`. The resulting csv should live in `output/books.csv`.
+5. Given a list of ISBNs, create a python program to create a csv containing the ISBN, Title, Author, Publisher and Published Date of each ISBN. Use https://openlibrary.org/dev/docs/api/books to acquire this data. The list of ISBNs can be found in `books/isbns.txt`. The resulting csv should live in `output/books.csv`.
 
